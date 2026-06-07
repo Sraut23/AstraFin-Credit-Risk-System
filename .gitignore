@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+data/raw/
+*.log
+
+*.csv
+!data/sample_data/*.csv
+
+*.pkl
