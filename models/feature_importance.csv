@@ -1,0 +1,14 @@
+feature,importance
+risk_band,0.3140995
+credit_score,0.16904928
+interest_rate,0.0790858
+monthly_obligations,0.045970786
+risk_profile,0.045581978
+monthly_income,0.045101784
+total_outstanding,0.045084104
+customer_segment,0.04471938
+loan_amount,0.044265036
+dti_ratio,0.043830965
+tenure_months,0.04367483
+previous_defaults,0.04001527
+existing_loans,0.039521366

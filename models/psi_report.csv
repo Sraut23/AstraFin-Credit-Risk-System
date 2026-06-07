@@ -1,0 +1,11 @@
+feature,psi,status
+credit_score,0.0005,Stable
+monthly_income,0.0001,Stable
+loan_amount,0.0005,Stable
+interest_rate,0.0004,Stable
+tenure_months,0.0006,Stable
+existing_loans,0.0002,Stable
+total_outstanding,0.0008,Stable
+monthly_obligations,0.0003,Stable
+dti_ratio,0.0008,Stable
+previous_defaults,0.0001,Stable
